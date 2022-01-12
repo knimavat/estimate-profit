@@ -26,8 +26,6 @@
       "psr-4": {
         "Practical\\EstimateProfit\\": ""
       }
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    }
   }
   
